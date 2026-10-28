@@ -6,3 +6,6 @@ This project contains information about our department.
 - Department information
 - Faculty details
 - Course information
+## Development
+
+This project is maintained using Git and GitHub.
