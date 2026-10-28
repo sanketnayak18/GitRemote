@@ -5,7 +5,7 @@ This project contains information about our department.
 
 - Department information
 - Faculty details
-- Course information
+- Course structure
 ## Development
 
 This project is maintained using Git and GitHub.
